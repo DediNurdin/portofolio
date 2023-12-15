@@ -1,7 +1,6 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.skdigital.hsi_protection",
-               "sha256_cert_fingerprints": ["BD:D0:08:06:B5:45:0D:3A:12:1C:40:C4:D9:33:52:9D:2B:74:1F:7E:DB:DA:A1:DB:D3:CB:26:36:03:6F:1B:5C",
-               52:66:C6:B2:3B:52:AB:AB:AB:D5:65:8F:EB:3D:67:65:92:AB:CE:F1:02:84:C4:AE:91:00:36:66:BA:27:06:28
+               "sha256_cert_fingerprints": ["BD:D0:08:06:B5:45:0D:3A:12:1C:40:C4:D9:33:52:9D:2B:74:1F:7E:DB:DA:A1:DB:D3:CB:26:36:03:6F:1B:5C"
                ] }
 }]
